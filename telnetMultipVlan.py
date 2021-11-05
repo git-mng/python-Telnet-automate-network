@@ -5,8 +5,8 @@ import telnetlib
 #iam beginner in network automation..i willl try to share the things i do
 
 host = '192.168.122.22'
-user = input('insert yousername ===> : ')
-password = getpass.getpass('insert passwor => :')
+user = input('insert username ===> : ')
+password = getpass.getpass('insert password => :')
 
 tl = telnetlib.Telnet(host)
 tl.write(user.encode('ascii') + b'\n')
