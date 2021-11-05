@@ -1,5 +1,9 @@
 # python-automate-network-Telnet
-hi
+
+Hi
+=======> this script creat the VLAN's with specific range PORTS < =====
+
+
 I am beginner in network automation[Cisco Switch ]..i will try to share the things i do 
 
 cant contact me for some question 
