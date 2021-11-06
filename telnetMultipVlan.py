@@ -2,7 +2,7 @@ import getpass
 import telnetlib
 
 #by hicham maaroufi
-#iam beginner in network automation..i willl try to share the things i do
+#... willl try to share the things i do
 
 host = '192.168.122.22'
 user = input('insert username ===> : ')
